@@ -1,0 +1,13 @@
+Gantt Chart
+| p1 | p2 | p3 | p1 | p4 | p5 | p2 | p6 | p3 | p1 | p2 | p1 |
+   0   2   4   6   8   9  11  13  14  15  17  18  19
+
+ProcessID   ArrivalTime    WaitingTime    TurnaroundTime    ResponseTime   
+p1          0              12             19                0              
+p2          1              12             17                1              
+p3          2              10             13                2              
+p4          3              5              6                 5              
+p5          4              5              7                 5              
+p6          5              8              9                 8              
+
+Average                    8.6667         11.8333           3.5000         
